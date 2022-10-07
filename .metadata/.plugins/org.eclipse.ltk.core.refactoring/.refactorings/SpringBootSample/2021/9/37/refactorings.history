@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;com.example.demo.config.SecurityCofig&apos; を &apos;SecurityConfig&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;SpringBootSample&apos;&#x0A;- オリジナル要素: &apos;com.example.demo.config.SecurityCofig&apos;&#x0A;- 名前変更済み要素: &apos;com.example.demo.config.SecurityConfig&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;SecurityCofig&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.demo.config{SecurityCofig.java[SecurityCofig" matchStrategy="1" name="SecurityConfig" qualified="false" references="true" similarDeclarations="false" stamp="1631110108974" textual="false" version="1.0"/>
+</session>
